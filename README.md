@@ -16,6 +16,7 @@ A text-based C++ game
                         Not your typical RPG grinding!          
 
 ## Description
+
     In RPGs grinding is the meaningless act of leveling-up just for the
   'fun' of it. Well here you do almost the same thing, except you are not a
   knight or a wizard, in this game you play as either a skater or a BMXer. 
