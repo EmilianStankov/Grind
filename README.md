@@ -17,16 +17,16 @@ A text-based C++ game
 
 ## Description
 
-    In RPGs grinding is the meaningless act of leveling-up just for the
+  In RPGs grinding is the meaningless act of leveling-up just for the
   'fun' of it. Well here you do almost the same thing, except you are not a
   knight or a wizard, in this game you play as either a skater or a BMXer. 
-    The goal is to get sponsored. To do so you must reach level 5. You perform 
+  The goal is to get sponsored. To do so you must reach level 5. You perform 
   tricks and score points. You can level up after gathering a certain ammount 
   of points.
-    To perform a trick it costs you some stamina. You can replenish stamina by 
+  To perform a trick it costs you some stamina. You can replenish stamina by 
   drinking energy drinks. If you run out of stamina your score will be reset to
   zero and you will have to start leveling the current level again.
-    If you enter anything different from 1-13, or try to grind on a quarter
+  If you enter anything different from 1-13, or try to grind on a quarter
   pipe you will do nothing on the current park piece.
 
 ## Controls
